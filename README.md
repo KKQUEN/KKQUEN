@@ -13,7 +13,7 @@
 -->
 
 
-Here are some ideas to get you started:
+
 ### About me
 - 🌱 I’m currently improving my skills ML
 - 📫 Reach me by [tg](t.me/kkquen), [mail](mailto:artem_r2015@mail.ru)
