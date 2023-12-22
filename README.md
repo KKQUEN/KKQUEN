@@ -4,7 +4,7 @@
 </div>
 
 <div id="Socials" align="center">
-<a href="t.me/kkquen">
+<a href="https://t.me/kkquen">
   <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram" alt="Telegram"/>
 </a>
 </div>
@@ -16,7 +16,7 @@
 
 ### About me
 - 🌱 I’m currently improving my skills ML
-- 📫 Reach me by [tg](t.me/kkquen), [mail](mailto:artem_r2015@mail.ru)
+- 📫 Reach me by [tg](https://t.me/kkquen), [mail](mailto:artem_r2015@mail.ru)
 - ⚡ Fun fact: My hair is dyed blue and red
 
 ### Languages and tools
