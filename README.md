@@ -17,6 +17,7 @@
 ### About me
 - 🌱 I’m currently improving my skills ML
 - 📫 Reach me by [tg](https://t.me/kkquen), [mail](mailto:artem_r2015@mail.ru)
+- :> Soon i'll add some of my projects. I promise
 - ⚡ Fun fact: My hair is dyed blue and red
 
 ### Languages and tools
